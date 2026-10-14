@@ -1,2 +1,3 @@
 # gbfolk-releases
-personal test
+
+配布用リポジトリ。
